@@ -7,3 +7,8 @@ hosted link ->https://priyanka680shaw.github.io/TributePage/
 ![Screenshot 2023-07-30 143913](https://github.com/priyanka680shaw/TributePage/assets/96192066/dec92422-9946-469a-843e-3f1f68f8dfa4)
 ![Screenshot 2023-07-30 143942](https://github.com/priyanka680shaw/TributePage/assets/96192066/c428a05c-fc11-48fa-b94d-8e06f74cd9ca)
 ![Screenshot 2023-07-30 144013](https://github.com/priyanka680shaw/TributePage/assets/96192066/1e999658-7dc2-4634-afcb-de4088a31f01)
+h1 : heading
+p : paragraph
+img : inserting img
+div : block element
+iframe: to showing another web page in to your web page
